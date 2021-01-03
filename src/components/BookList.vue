@@ -26,16 +26,12 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 h1, h2 {
   font-weight: normal;
 }
 ul {
   list-style-type: none;
   padding: 0;
-}
-li {
-  display: block;
-  margin: 0 10px;
 }
 </style>
